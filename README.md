@@ -31,4 +31,4 @@
 ## Donate
 
 - [Qris](https://telegra.ph/file/15c7c8024021153ca52e8.jpg)
-- [Saweria](https://saweria.co/)
+- [Saweria](https://saweria.co/rynxd)
