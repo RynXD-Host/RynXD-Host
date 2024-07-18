@@ -11,10 +11,10 @@
 <p align="center">
   <a href="https://instagram.com/_rynxd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.rynxd.link"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/oziispedzz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://t.me/rynxd"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/RynXD-Host"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/@RynXDHost?si=BOvo8hxdtiOwDiZn"><br>
-  <a href="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Dilihat" />
+  <a href="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen"><img src="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen" />
 
 </p>
 
